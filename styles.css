@@ -1,0 +1,141 @@
+body {
+  font-family: courier, monospace;
+}
+
+/* #logo {
+  height: 200px;
+  width: 175px;
+  padding: 20px;
+} */
+
+/* #home-video {
+  width: 50%;
+} */
+
+span {
+  color: #b7472a;
+}
+.contact-content {
+  font-size: 20px;
+  margin-top: 7%;
+  text-align: center;
+}
+.logo {
+  color: #b7472a;
+  display: inline-block;
+  font-family: "Ma Shan Zheng", monospace;
+  font-size: 7rem;
+  margin: 0 45% 0 0;
+  padding-left: 2.5%;
+}
+
+.nav-bar {
+  display: inline-block;
+  margin-top: 0;
+  vertical-align: middle;
+}
+
+.page-content {
+  line-height: 1.5;
+  margin-top: 7%;
+  padding: 0 5%;
+  text-align: center;
+}
+
+.subline { 
+  margin: 0 40px;
+  padding-left: 2.5%;
+}
+
+/* #headline1 {
+  font-size: 75px;
+} */
+
+.gallery-text {
+  font-size: 25px;
+  margin-top: 10%;
+  text-align: left;
+}
+
+.headline {
+  font-size: 30px;
+}
+
+.body-text {
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 5% 5%;
+  text-align: center;
+}
+
+.side-note {
+  font-size: 25px;
+  padding-left: 20px;
+}
+
+/* header nav {
+  display: inline-block;
+  position: absolute;
+} */
+
+header li {
+  display: inline;
+  font-size: 20px;
+  padding-right: 40px;
+}
+
+a {
+  color: #b7472a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000000;
+}
+
+form {
+  margin-top: 10%;
+  font-size: 20px;
+  text-align: center;
+}
+
+.tagline {
+  color: #b7472a;
+  font-size: 25px;
+}
+
+.menu-content {
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 7% 3%;
+}
+
+.menus {
+  column-count: 2;
+  column-width: 50%;
+  column-gap: 50px;
+  padding-top: 2%;
+}
+
+#lunch-menu {
+  padding-top: 3.1%;
+}
+.price {
+  display: inline;
+  float: right;
+  margin-top: 0px;
+}
+
+.intro {
+  font-size: 25px;
+  text-align: center;
+}
+
+.item {
+  display: inline;
+}
+
+img {
+  width: 350px;
+  height: 250px;
+}
